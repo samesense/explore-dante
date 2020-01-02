@@ -2,6 +2,7 @@
 * bam.iobio.io/
 
 #### bam.iobio container for local runs
+* public docker: https://hub.docker.com/repository/docker/samesense/bamiobio/general
 * https://hub.docker.com/repository/docker/samesense/bam-iobio (update w/ dockerfile when going public and delete works tag
 
 ```
